@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Se Has</h1>
 <h3 align="center">A frontend developer from Cambodia</h3>
 
-- 🔭 I’m currently working on **Money-Tracker-Frontend**
+- 🔭 I’m currently working on **Frontend**
 
 - 🌱 I’m currently learning **NodeJs, NestJs, Angular, Vue, React**
 
-- 👯 I’m looking to collaborate on **Money-Tracker-Backend**
+- 👯 I’m looking to collaborate on **Backend**
 
 - 🤝 I’m looking for help with **No Project**
 
